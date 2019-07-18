@@ -1,5 +1,5 @@
 ## Birds-Species-Classifications-using-Transfer-Learning
-<img src="img/pytorch.jpeg" width="10%">)
+<img src="img/pytorch.jpeg" width="10%">
 
 This is an open source project. The project is under construction,
 
