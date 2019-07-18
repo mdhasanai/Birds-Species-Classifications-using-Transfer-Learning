@@ -6,7 +6,7 @@ import torch
 import torchvision as tv
 import pandas as pd
 
-import nltk
+#import nltk
 from PIL import Image
 import os
 import pickle
