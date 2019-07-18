@@ -1,5 +1,5 @@
 ## Birds-Species-Classifications-using-Transfer-Learning
-<img src="img/pytorch.jpeg" width="10%">
+<img src="imgage/pytorch.jpeg" width="10%">
 
 This is an open source project. The project is under construction,
 
@@ -9,6 +9,7 @@ This is an open source project. The project is under construction,
 - Install tqdm   (pip install tqdm)
 
 ## The architecture of the model is illustrated by the following
+<img src="imgage/model.png" width="10%">
 
 ### Data
 To use your own dataset, you must create a CSV file using the following format:
