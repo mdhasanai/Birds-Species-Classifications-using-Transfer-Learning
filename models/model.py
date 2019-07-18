@@ -14,8 +14,7 @@ class Encoder(nn.Module):
         
         self.dropout=dropout
 
-        # feature extraction model (ResNet152)
-        resnet = models.resnet34(pretrained=True)
+        # feature extraction model (ResNet18=True)
         self._resnet_extractor = nn.Sequential(*(list(resnet.children())[:-2]))
 
         # Resize image (encoded_img_size)
