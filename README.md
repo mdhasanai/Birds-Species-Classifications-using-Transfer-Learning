@@ -18,5 +18,6 @@ To use your own dataset, you must create a CSV file using the following format:
 /path/to/images1, class_number1
 ...
 ```
-training file name: train_corpus.csv
-validation file name: valid_corpus.csv
+- training file name: train_corpus.csv
+
+- validation file name: valid_corpus.csv
