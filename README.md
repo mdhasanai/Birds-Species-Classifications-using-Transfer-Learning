@@ -1,7 +1,10 @@
 ## Birds-Species-Classifications-using-Transfer-Learning
 <img src="image/pytorch.jpeg" width="10%">
 
-Classify an object from input an image and labelled them is a challenging task in computer vision field. 
+Classify an object from input an image and labelled them is a challenging task in the field of computer vision.
+Transfer learning help us to classify the object by using pretrained cnn model (Trained on Imagenet dataset). In this project, I wrote a model which can classify Birds species by leveraging pretrained cnn model with extra layer.
+
+ 
 This is an open source project. The project is under construction,
 
 ### Requirements
