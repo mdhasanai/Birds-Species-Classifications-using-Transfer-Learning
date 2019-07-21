@@ -1,6 +1,7 @@
 ## Birds-Species-Classifications-using-Transfer-Learning
 <img src="image/pytorch.jpeg" width="10%">
 
+Classify an object from input an image and labelled them is a challenging task in computer vision field. 
 This is an open source project. The project is under construction,
 
 ### Requirements
