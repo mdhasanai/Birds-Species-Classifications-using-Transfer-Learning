@@ -8,7 +8,7 @@ Transfer learning help us to classify the object by using pretrained cnn model (
 This is an open source project. The project is under construction,
 
 ### Requirements
-- Python 3.5 or later
+- Python 3.5 
 - Install Pytorch 1.0 or later (https://pytorch.org/)
 - Install tqdm   (pip install tqdm)
 
